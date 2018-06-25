@@ -11,3 +11,7 @@ sudo pip install Pillow
 sudo pip install -U scikit-learn
 sudo pip install tqdm
 python -m pip install --user scipy numpy matplotlib ipython jupyter pandas sympy nose
+sudo chmod 777 runAll.sh
+sudo chmod 777 runELA.sh
+sudo chmod 777 runCopyMoveDetection.sh
+sudo chmod 777 runPerceptualHash.sh
